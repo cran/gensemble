@@ -1,0 +1,13 @@
+4174b2bac89c2f13467c3e4cf38212a0 *DESCRIPTION
+defc7da34d02a49917455d6a99dcf387 *NAMESPACE
+fb3b40a5b3656d9416d38586f9884946 *R/AbstractModel.R
+8490eea915f20aaf78db4aa211b29e3a *R/gensemble.R
+aee5d30b13662d48e26b36b82028bd1a *man/AbstractModel-class.Rd
+f28b20594ad1adc76752a53212bd2a7f *man/ab.arglist.Rd
+5ed175d81a70d8f8f4502096c705c108 *man/ab.create.Rd
+7718df2ce73c3e0e91a4053c64035605 *man/ab.model.Rd
+0f06bb08cabc2621030951c4eeb8bea2 *man/ab.predict.Rd
+e9f7d3a0901ca7e4c8795ad0dc178f4a *man/gensemble-class.Rd
+98cb465c578f9450cca944beed335702 *man/gensemble.Rd
+7d8114ed177d0824a4ef88c16f96283c *man/mksampsize.Rd
+5503daf6025ea68221f0d2c8ca9ebcaa *man/predict.gensemble.Rd
