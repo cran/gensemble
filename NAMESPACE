@@ -3,3 +3,7 @@ exportClasses(
     "AbstractModel",
      "gensemble" 
 )
+S3method(predict, gensemble)
+S3method(print, gensemble)
+importFrom("methods", "new")
+importFrom("stats", "cor", "na.omit", "predict", "rnorm", "var")
